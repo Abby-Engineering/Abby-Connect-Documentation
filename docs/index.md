@@ -11,7 +11,7 @@ Endpoint that will validate the test the provided API Key for authenticity. API 
 }
 ```
 
-### <span style="color:#F9F9F9">GET</span> Chats
+### <span style="color:#0CBB52">GET</span> Chats
 #### `https://abby.my.salesforce.com/services/apexrest/Chat/v1`
 Returns the most recent chats for your account
 
