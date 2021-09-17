@@ -1,3 +1,3 @@
 # Abby Connect API Documentation
 
-### <span style="color:#FFB400"></span>POST Authentication
+### <span style="color:#FFB400">POST</span> Authentication
