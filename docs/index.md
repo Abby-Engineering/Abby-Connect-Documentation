@@ -5,3 +5,8 @@ Endpoint that will validate the test the provided API Key for authenticity. API 
 ***
 
 #### Body (json)
+```json
+{
+    "api_key": "<insert API Key>"
+}
+```
