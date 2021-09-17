@@ -18,6 +18,7 @@ Returns the most recent chats for your account
 ***
 
 #### Request Headers
-Header | Value
------- | ------
-x-api-key | <your api key>
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
