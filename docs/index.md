@@ -8,6 +8,15 @@ Endpoint that will validate the test the provided API Key for authenticity. API 
     "api_key": "<insert API Key>"
 }
 ```
+#### Response Body
+Status: <span style="color:#0CBB52">200 OK</span>
+```json
+{
+    "message": "Success",
+    "api_key": "<Your API Key>",
+    "account": "<Name of your Account>"
+}
+```
 
 ***
 
