@@ -34,7 +34,7 @@ Headers | Values
 x-api-key | /< your api key />
 
 #### Example Response Body
-
+Status: 200
 ```json
 [
     {
