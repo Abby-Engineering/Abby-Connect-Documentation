@@ -34,7 +34,7 @@ Headers | Values
 x-api-key | /< your api key />
 
 #### Example Response Body
-Status: 200
+Status: <span style="color:#0CBB52">200 OK</span>
 ```json
 [
     {
@@ -64,6 +64,7 @@ Headers | Values
 x-api-key | /< your api key />
 
 #### Example Response Body
+Status: <span style="color:#0CBB52">200 OK</span>
 ```json
 [
     {
