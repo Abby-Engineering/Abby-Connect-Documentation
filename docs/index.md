@@ -18,7 +18,7 @@ Status: <span style="color:#0CBB52">200 OK</span>
 }
 ```
 #### Failed Response
-Status: <span style="color:#0CBB52">400 Bad Request</span>
+Status: <span style="color:#BB2E3E">400 Bad Request</span>
 ```json
 {
     "message": "Bad Request. The API Key provided is invalid",
