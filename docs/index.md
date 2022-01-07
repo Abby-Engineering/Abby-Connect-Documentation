@@ -31,7 +31,7 @@ Status: <span style="color:#BB2E3E">400 Bad Request</span>
 
 ### <span style="color:#0CBB52">GET</span> Chats
 #### `https://abby.my.salesforce.com/services/apexrest/Chat/v1`
-Returns the most recent Chats for your account
+Returns the most recent Chats from the last 30 minutes for your account. If there are no new Chats within the last 30 minutes the response will be an empty list.
 
 #### Request Headers
 
@@ -43,7 +43,7 @@ x-api-key | /< your api key />
 
 ### <span style="color:#0CBB52">GET</span> Receptionist Messages
 #### `https://abby.my.salesforce.com/services/apexrest/ReceptionistMessages/v1`
-Returns the most recent Receptionist Messages for your account
+Returns the most recent Receptionist Messages from the last 30 minutes for your account. If there are no new Receptionist Messages within the last 30 minutes the response will be an empty list.
 
 #### Request Headers
 
@@ -73,7 +73,7 @@ Status: <span style="color:#0CBB52">200 OK</span>
 
 ### <span style="color:#0CBB52">GET</span> Call Records
 #### `https://abby.my.salesforce.com/services/apexrest/CallRecord/v1`
-Returns the most recent Call Records for your account
+Returns the most recent Call Records from the last 30 minutes for your account. If there are no new Call Records within the last 30 minutes the response will be an empty list.
 
 #### Request Headers
 
